@@ -1,3 +1,3 @@
 # Mate-Academy
 
-mate academy1
+mate academy
