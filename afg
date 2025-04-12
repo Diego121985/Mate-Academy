@@ -1,0 +1,26 @@
+[33mcommit d10a0f89157eb59717869871815b4530c9e541c8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1a6d65c 9e4ed72
+Author: Diego__Leite <diegoleite59986@gmail.com>
+Date:   Fri Apr 11 17:00:23 2025 -0300
+
+    Merge pull request #1 from Diego121985/feature/my-first-pull-request
+    
+    my  index.html and lindex.html pages
+
+[33mcommit 9e4ed72895f6ee624729e0592c9e75ea8227cd5a[m[33m ([m[1;31morigin/feature/my-first-pull-request[m[33m, [m[1;32mfeature/my-first-pull-request[m[33m)[m
+Author: Diego__Leite <diegoleite59986@gmail.com>
+Date:   Fri Apr 11 16:54:11 2025 -0300
+
+    Changed help page title according to feedback
+
+[33mcommit 014f038e2e433b835307448578e1a99cbc704a61[m
+Author: Diego__Leite <diegoleite59986@gmail.com>
+Date:   Fri Apr 11 16:18:26 2025 -0300
+
+    Uploaded index.html and lindex.html pages
+
+[33mcommit 1a6d65c7d5373f66ae35752911968b51be295239[m
+Author: Diego__Leite <diegoleite59986@gmail.com>
+Date:   Fri Apr 11 14:22:29 2025 -0300
+
+    Initial commit
